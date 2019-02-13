@@ -1,14 +1,15 @@
 [
 {
-  "modid": "Artifice",
-  "name": "Artifice",
+  "modid": "lostartifice",
+  "name": "Lost Artifice",
   "description": "Practical solutions",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "http://www.minecraftforum.net/topic/1860869-",
+  "url": "",
   "updateUrl": "",
   "authors": [
-    "Shukaro"
+    "Shukaro",
+    "mallrat208"
   ],
   "credits": "All the contributors",
   "logoFile": "",
@@ -16,7 +17,7 @@
   ],
   "parent": "",
   "dependencies": [
-    "MinecraftForge","CoFHCore"
+    "MinecraftForge"
   ]
 }
 ]

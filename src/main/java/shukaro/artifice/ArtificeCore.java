@@ -124,20 +124,4 @@ public class ArtificeCore
     {
         IMC.processIMC(event);
     }
-
-    @EventHandler
-    public void missingMappings(FMLMissingMappingsEvent event)
-    {
-        List<FMLMissingMappingsEvent.MissingMapping> missing = event.get();
-        for (FMLMissingMappingsEvent.MissingMapping m : missing)
-        {
-            if (m.name.contains("dobule"))
-            {
-                if (m.type == GameRegistry.Type.BLOCK)
-                    m.remap((Block)Block.blockRegistry.getObject(m.name.replace("dobule", "double")));
-                else if (m.type == GameRegistry.Type.ITEM)
-                    m.remap((Item)Item.itemRegistry.getObject(m.name.replace("dobule", "double")));
-            }
-        }
-    }
 }

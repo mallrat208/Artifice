@@ -1,0 +1,39 @@
+itemGroup.lostartifice=Lost Artifice
+itemGroup.lostartifice.world=Lost Artifice Worldgen
+
+
+#Item Upgrades
+item.lostartifice.upgrade.sharpening_kit.name=Sharpening Kit
+item.lostartifice.upgrade.reinforcement.name=Reinforcement
+item.lostartifice.upgrade.reinforced_limbs.name=Reinforced Limbs
+item.lostartifice.upgrade.plaited_string.name=Plaited String
+item.lostartifice.upgrade.counterweight.name=Counterweight
+item.lostartifice.upgrade.armor_spikes.name=Armor Spikes
+item.lostartifice.upgrade.laminated_padding.name=Laminated Padding
+item.lostartifice.upgrade.quilted_cover.name=Quilted Cover
+item.lostartifice.upgrade.elastic_soles.name=Elastic Soles
+item.lostartifice.upgrade.firedamp.name=Firedamp
+item.lostartifice.upgrade.elastic_layering.name=Elastic Layering
+item.lostartifice.upgrade.scuba_tank.name=Scuba Tank
+item.lostartifice.upgrade.dive_kit.name=Dive Kit
+
+item.lostartifice.upgrade.type.toolweapon=Tool or Weapon Upgrade
+item.lostartifice.upgrade.type.universal=Universal Upgrade
+item.lostartifice.upgrade.type.bow=Bow Upgrade
+item.lostartifice.upgrade.type.weapon=Weapon Upgrade
+item.lostartifice.upgrade.type.armor=Armor Upgrade
+item.lostartifice.upgrade.type.boot=Boot Upgrade
+item.lostartifice.upgrade.type.helmet=Helmet Upgrade
+item.lostartifice.upgrade.sharpening_kit.flavor=A simple kit to sharpen blades
+item.lostartifice.upgrade.reinforcement.flavor=The perfect materials to reinforce weak points
+item.lostartifice.upgrade.reinforced_limbs.flavor=Allows for a stronger pull
+item.lostartifice.upgrade.plaited_string.flavor=Improves accuracy and stability
+item.lostartifice.upgrade.counterweight.flavor=Improves weapon balance
+item.lostartifice.upgrade.armor_spikes.flavor=Sharp spikes deter attacks
+item.lostartifice.upgrade.laminated_padding.flavor=Layered materials improve protection
+item.lostartifice.upgrade.quilted_cover.flavor=Thick cloth helps block arrows
+item.lostartifice.upgrade.elastic_soles.flavor=Slime makes the perfect shock absorber
+item.lostartifice.upgrade.firedamp.flavor=A thick slurry that helps reduce flammability
+item.lostartifice.upgrade.elastic_layering.flavor=Helpful in reducing impacts
+item.lostartifice.upgrade.scuba_tank.flavor=Crude, but effective air tank
+item.lostartifice.upgrade.dive_kit.flavor=Allows for clearer underwater vision
